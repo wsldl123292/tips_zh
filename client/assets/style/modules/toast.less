@@ -1,0 +1,60 @@
+.toast {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    margin-left: -240px;
+    width: 480px;
+    padding: 12px 24px;
+    z-index: 9999;
+    border-radius: 10px;
+    background: fade(lighten(@gray, 10%), 90%);
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, .2);
+
+    &.toast-primary {
+        background: fade(lighten(@primary, 10%), 90%);
+    }
+    &.toast-warning {
+        background: fade(lighten(@warning, 10%), 90%);
+    }
+    &.toast-danger {
+        background: fade(lighten(@danger, 10%), 90%);
+    }
+    &.toast-success {
+        background: fade(lighten(@success, 10%), 90%);
+    }
+}
+
+.toast-close {
+    position: absolute;
+    right: 6px;
+    top: 4px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.toast-title {
+    .toast-main-title {
+        font-size: 16px;
+        font-weight: bold;
+        color: darken(@black, 10%);
+        //color: darken(@black, 10%);
+    }
+    .toast-sub-title {
+        font-size: 14px;
+        font-weight: normal;
+        margin-left: 8px;
+    }
+}
+
+.toast-content {
+    font-size: 14px;
+    color: @black;
+    line-height: 24px;
+    margin-top: 12px;
+    p {
+        word-break: break-all;
+        :not(:last-child) {
+            margin-bottom: 4px;
+        }
+    }
+}

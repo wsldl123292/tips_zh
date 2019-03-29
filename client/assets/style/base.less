@@ -1,0 +1,89 @@
+/**
+ * @file description
+ * @author email
+ */
+@import "./variables";
+@import "./theme";
+@import "./reset";
+@import "./mixin";
+@import "./modules/toast";
+@import "./helper";
+
+html,body{
+    min-width: 800px;
+}
+#__nuxt,
+#__layout {
+    height: 100%;
+}
+.__nuxt-error-page{
+    z-index: 100;
+}
+.el-main{
+    padding: 5px 10px!important;
+}
+.el-tabs{
+    height: @tabHight!important;
+}
+.el-row{
+    width: 100%;
+}
+.el-dialog__header{
+    border-bottom: 1px solid #ebebeb;
+}
+.el-dialog__footer{
+    border-top: 1px solid #ebebeb;
+}
+.el-button + .el-button{
+    margin-left: 5px!important;
+}
+.datagrid-header .el-form-item{
+    margin: 5px !important;
+}
+.datagrid{
+	.el-button--mini {
+		padding: 5px 6px;
+	}
+}
+.fa{
+    text-align: center;
+    vertical-align: middle;
+}
+.menu-icon {
+    width: 24px;
+    margin-right: 2px;
+}
+.el-table{
+    width: 100%;
+}
+.el-table thead th {
+    background: darken(#f9f9f9, 3%);
+    //color: #fff
+    div {
+        padding-left: initial;
+        padding-right: initial;
+        line-height: initial;
+        .el-input--mini .el-input__inner{
+            padding-left: 5px;
+            padding-right: 15px;
+        }
+    }
+}
+.el-checkbox__label,
+.el-switch__label{
+    font-size: 12px!important;
+    font-weight: normal !important;
+}
+
+.aside-content{
+	top: 0;
+	right: -100%;
+	height: 100%;
+	width: 400px;
+	background: #fff;
+	z-index: 1;
+	transition: all .2s ease-in 0s;
+	&.show{
+		right: 0;
+	}
+}
