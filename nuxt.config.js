@@ -7,7 +7,7 @@ module.exports = {
     head: {
         meta: [
             {charset: 'utf-8'},
-            {name: 'viewport', content: 'width=device-width, initial-scale=1'},
+            // {name: 'viewport', content: 'width=device-width, initial-scale=1'},
             {name: 'keyword', content: '推介、推荐、足球、网球、赛马、冰球、篮球、大小球、亚盘、竞彩、单场、串关、彩票、足彩、博彩、滚球、单关、中奖、365、188、赚钱、大小分、胜负、胜平负'},
             {hid: 'description', name: 'description', content: '投注推荐 - 提供足球、网球、赛马、冰球、篮球等投注推荐，大小球，亚盘，竞彩，单场，串关等推荐'}
         ],

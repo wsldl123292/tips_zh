@@ -2,7 +2,7 @@
     <div>
     <h2>欢迎来到此处，这里有各种推荐，会陆续开放，欢迎添加微信：足球预测tips</h2>
 
-    <h3>网球统计</h3>
+    <h1>网球统计</h1>
     <table class="el-table tips-table" border="1">
             <thead>
             <tr>
@@ -21,8 +21,8 @@
             </tr>
             </tbody>
     </table>
-
-    <h3>足球统计</h3>
+    <br>
+    <h1>足球统计</h1>
     <table class="el-table tips-table" border="1">
             <thead>
             <tr>

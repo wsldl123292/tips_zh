@@ -10,6 +10,7 @@
         >
 
             <el-menu-item v-for="menu in NavConfig"
+                          v-show="!menu.hidden"
                           :index="'/' + menu.path"
                           :key="menu.path"
                           :title="menu.name"

@@ -18,7 +18,6 @@ export const NavConfig = [
         name: '篮球',
         icon: 'fa fa-bullhorn',
         path: 'basketball',
-        hidden: true,
         menu: []
     },
     {
@@ -31,13 +30,13 @@ export const NavConfig = [
         name: '冰球',
         icon: 'fa fa-life-ring',
         path: 'hockey',
-        hidden: true,
         menu: []
-    },
-    {
-        name: '赛马',
-        icon: 'fa fa-etsy',
-        path: 'horse',
-        menu: []
+    // },
+    // {
+    //     name: '赛马',
+    //     icon: 'fa fa-etsy',
+    //     path: 'horse',
+    //     hidden: true,
+    //     menu: []
     }
 ];
