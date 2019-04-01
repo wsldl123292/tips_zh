@@ -14,34 +14,27 @@
             </thead>
             <tbody>
             <tr>
-                <td rowspan="2">2019-03-01</td>
-                <td>Kyle Edmund vs Yannick Maden
+                <td>2019-04-01</td>
+                <td>Natalia Vikhlyantseva vs Tatiana Maria
                     <p>
-                    ATP Challenger Indian Wells</p></td>
-                <td>Kyle Edmun</td>
-                <td rowspan="2">1.65</td>
-                <td rowspan="2">100</td>
-                <td rowspan="2">65</td>
-                <td rowspan="2" class="w">正确</td>
-            </tr>
-            <tr>
-                <td>Salvatore Caruso vs Lloyd George Muirhead Harris
-                    <p>ATP Challenger Indian Wellsm</p>
-                </td>
-                <td>Lloyd George Muirhead Harris</td>
-            </tr>
-
-
-            <tr>
-                <td>2019-03-01</td>
-                <td>Alex De Minaur vs Alexander Zverev
-                    <p>
-                    ATP Acapulco</p> </td>
-                <td>Alexander Zverev -3.5</td>
-                <td>2.1</td>
+                    ATP 查尔斯顿</p></td>
+                <td>Natalia Vikhlyantseva</td>
+                <td>2.0</td>
                 <td>100</td>
-                <td>110</td>
-                <td class="w">正确</td>
+                <td>?</td>
+                <td>?</td>
+            </tr>
+
+            <tr>
+                <td>2019-04-02</td>
+                <td>Kichenok L./Kichenok N. vs Hradecka L./Klepac A.
+                    <p>
+                    WTA 查尔斯顿 女双</p></td>
+                <td>Hradecka L./Klepac A.</td>
+                <td>1.61</td>
+                <td>100</td>
+                <td>?</td>
+                <td>?</td>
             </tr>
             <tr>
                 <td>2019-03-02</td>
