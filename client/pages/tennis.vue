@@ -21,8 +21,8 @@
                 <td>Natalia Vikhlyantseva</td>
                 <td>2.0</td>
                 <td>100</td>
-                <td>?</td>
-                <td>?</td>
+                <td>-100</td>
+                <td class="l">错误</td>
             </tr>
 
             <tr>

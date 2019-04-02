@@ -19,8 +19,8 @@
           <td>纽约游骑兵</td>
           <td>2.8</td>
           <td>100</td>
-          <td>?</td>
-          <td>?</td>
+          <td>-100</td>
+          <td class="l">错误</td>
         </tr>
 
         <tr>
@@ -29,8 +29,8 @@
           <td>佛罗里达美洲豹</td>
           <td>2.9</td>
           <td>100</td>
-          <td>?</td>
-          <td>?</td>
+          <td>190</td>
+          <td class="w">正确</td>
         </tr>
         <tr>
           <td colspan="7">

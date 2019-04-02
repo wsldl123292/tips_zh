@@ -18,9 +18,9 @@
           <td>波特兰开拓者 vs 明尼苏达森林狼</td>
           <td>明尼苏达森林狼</td>
           <td>2.4</td>
-          <td>100</td>
-          <td>?</td>
-          <td>?</td>
+          <td>30</td>
+          <td>-30</td>
+          <td class="l">错误</td>
         </tr>
 
         <tr>
@@ -28,9 +28,9 @@
           <td>波特兰开拓者 vs 明尼苏达森林狼</td>
           <td>明尼苏达森林狼 +3</td>
           <td>1.95</td>
-          <td>100</td>
-          <td>?</td>
-          <td>?</td>
+          <td>60</td>
+          <td>-60</td>
+          <td class="l">错误</td>
         </tr>
         <tr>
           <td colspan="7">
