@@ -32,6 +32,77 @@
           <td>190</td>
           <td class="w">正确</td>
         </tr>
+
+        <tr>
+          <td>2019-04-02</td>
+          <td>Toronto vs NY Islanders</td>
+          <td>NY Islanders</td>
+          <td>3.34</td>
+          <td>100</td>
+          <td>-100</td>
+          <td class="l">错误</td>
+        </tr>
+
+        <tr>
+          <td>2019-04-03</td>
+          <td>Winnipeg vs Minnesota</td>
+          <td>Winnipeg</td>
+          <td>3.38</td>
+          <td>100</td>
+          <td>-100</td>
+          <td class="l">错误</td>
+        </tr>
+
+        <tr>
+          <td>2019-04-05</td>
+          <td>NY Islanders vs Florida</td>
+          <td>Florida</td>
+          <td>3.14</td>
+          <td>100</td>
+          <td>-100</td>
+          <td class="l">错误</td>
+        </tr>
+
+        <tr>
+          <td>2019-04-05</td>
+          <td>Boston vs Minnesota</td>
+          <td>Boston</td>
+          <td>3.26</td>
+          <td>100</td>
+          <td>226</td>
+          <td class="w">正确</td>
+        </tr>
+
+        <tr>
+          <td>2019-04-05</td>
+          <td>Biel vs Bern</td>
+          <td>Biel</td>
+          <td>1.77</td>
+          <td>100</td>
+          <td>77</td>
+          <td class="w">正确</td>
+        </tr>
+
+        <tr>
+          <td>2019-04-05</td>
+          <td>Bern vs Biel</td>
+          <td>Biel</td>
+          <td>1.71</td>
+          <td>100</td>
+          <td>-100</td>
+          <td class="l">错误</td>
+        </tr>
+
+        <tr>
+          <td>2019-04-05</td>
+          <td>Biel vs Bern</td>
+          <td>Biel</td>
+          <td>1.95</td>
+          <td>200</td>
+          <td>?</td>
+          <td>?</td>
+        </tr>
+
         <tr>
           <td colspan="7">
             <a href="https://pan.wps.cn/l/syp38c1" target="_blank">更多请查看</a>
